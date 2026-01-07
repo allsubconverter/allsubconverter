@@ -1,0 +1,34 @@
+{
+  "name": "allsubconverter-utils",
+  "version": "1.0.0",
+  "description": "Core utilities and documentation for AllSubConverter - The Free Online Subtitle Converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git"
+  },
+  "keywords": [
+    "subtitle",
+    "converter",
+    "srt",
+    "vtt",
+    "ass",
+    "lrc",
+    "caption",
+    "transcription",
+    "online-tool",
+    "javascript",
+    "webassembly",
+    "privacy-focused"
+  ],
+  "author": "AllSubConverter Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues"
+  },
+  "homepage": "https://www.allsubconverter.com"
+}
